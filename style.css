@@ -1,0 +1,73 @@
+.container
+{
+    background-color: rgb(255, 255, 255);
+}
+.logo
+{
+    height: 65px;
+}
+.button
+{
+    border-radius: 20px;
+    width: 80px;
+    margin-bottom: 4px;
+    margin-left: -10px;
+}
+form
+{ 
+    width: 200px;
+    margin-left: 40px;
+}
+a:link 
+{
+    background-color: transparent;
+    text-decoration: none;
+}
+.card
+{
+    transition: all 0.4s;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.card-title
+{
+    margin-top: -25px;
+}
+.card:hover
+{
+    transform: scale(1.06);
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.card-img-top
+{
+    border-radius: 40px;
+    padding: 15px;
+}
+.price
+{
+    margin-left: 10px;
+    color: cadetblue;
+}
+.fa-magnifying-glass
+{
+    font-size: 23px;
+    color: black;
+    margin-left: 5px;
+}
+.fa-user
+{
+    font-size: 23px;  
+    color: black;
+    margin-left: 35px;
+}
+.fa-cart-shopping
+{
+    font-size: 23px;
+    margin-left: 20px;
+    margin-right: 10px;
+    color: black;
+}
+.search
+{
+    width: 100px;
+    margin-left: 5px;
+}
